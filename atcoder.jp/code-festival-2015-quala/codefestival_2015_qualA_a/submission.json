@@ -1,0 +1,12 @@
+{
+	"id": 11626968,
+	"epoch_second": 1586214006,
+	"problem_id": "codefestival_2015_qualA_a",
+	"contest_id": "code-festival-2015-quala",
+	"user_id": "watari_eng",
+	"language": "C++14 (GCC 5.4.1)",
+	"point": 100,
+	"length": 121,
+	"result": "AC",
+	"execution_time": 1
+}
